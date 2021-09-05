@@ -5,7 +5,8 @@ Davide Mapelli
 
 e-mail : davide.mapelli4@studenti.unimi.it
 
-Each compiled Jupyter Notebook can be found in every folder with the name: "NN-Mapelli". 
+The simulations are written in C++, the main code is in the main.cpp file, the makefile can be called just with the make command, the header files are the ".h" ones, and the class files can be found in other ".cpp" files. 
+The results are in the Jupyter Notebook (".ipynb"). Each compiled Jupyter Notebook can be found in every folder with the name: "NN-Mapelli". 
 ### Topics:
  - Sampling of random variables and Monte Carlo integration, Importance Sampling (LSN_01-LSN_02-LSN_03)
  - Advanced Monte Carlo methods: Markov chains, Metropolis algorithm on MolDyn, Ising model, QM (LSN_06 - LSN_07 - LSN_08)
