@@ -1,5 +1,5 @@
 # Numeric_Simulation_Laboratory
-Numerical Simulation Laboratory at Università degli Studi di Milano (Unimi) in 2020-2021 (held by  Prof. Davide E. Galli). 
+Numerical Simulation Laboratory III year optional course at Università degli Studi di Milano (Unimi) in 2020-2021 (held by  Prof. Davide E. Galli). 
 
 Davide Mapelli
 
