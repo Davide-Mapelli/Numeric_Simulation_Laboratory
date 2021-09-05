@@ -1,9 +1,11 @@
 # Numeric_Simulation_Laboratory
-Numerical Simulation Laboratory at Università degli Studi di Milano (Unimi) in 2020-2021 (held by professor D.E. Galli). 
+Numerical Simulation Laboratory at Università degli Studi di Milano (Unimi) in 2020-2021 (held by  Prof. Davide E. Galli). 
+
+Davide Mapelli
 
 e-mail : davide.mapelli4@studenti.unimi.it
 
-Il Jupyter Notebook compilato si trova in ogni cartella col nome NN-Mapelli.
+Each compiled Jupyter Notebook can be found in every folder with the name: "NN-Mapelli". 
 ### Topics:
  - Advanced Monte Carlo methods: Markov chains, Metropolis algorithm. 
  - Numerical simulations in statistical mechanics. 
