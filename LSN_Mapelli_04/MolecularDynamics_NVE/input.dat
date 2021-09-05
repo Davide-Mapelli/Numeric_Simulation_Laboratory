@@ -1,0 +1,19 @@
+1
+1.2
+1.2
+108
+0.05
+5
+0.0005
+10000
+1000
+
+  ReadInput >> type;
+  ReadInput >> temp;
+  ReadInput >> tempstar;
+  ReadInput >> npart;
+  ReadInput >> rho;
+  ReadInput >> rcut;
+  ReadInput >> delta;
+  ReadInput >> nstep;
+  ReadInput >> iprint;
